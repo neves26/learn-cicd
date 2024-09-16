@@ -1,4 +1,6 @@
-![Deploy](https://github.com/neves26/learn-cicd/workflows/ci.yml/badge.svg)
+
+![](https://github.com/neves26/learn-cicd/actions/workflows/ci.yml/badge.svg)
+
 
 # learn-cicd-starter (Notely)
 
